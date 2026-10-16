@@ -2,3 +2,5 @@ github.com/afakihfaj/go-say-hello v1.0.1 h1:2XwLPjX45df+2rzga3zNbzJXa5ujQAZ25tpU
 github.com/afakihfaj/go-say-hello v1.0.1/go.mod h1:Y+yi8PdhWdeQCGK/Wx42z9xxXN3MNAOOhnv4HVntKiY=
 github.com/afakihfaj/go-say-hello v1.5.0 h1:4BnDzXJ6/cPtHpmflZ9J2m4eTvMQEDL+flPHocwSuFw=
 github.com/afakihfaj/go-say-hello v1.5.0/go.mod h1:Y+yi8PdhWdeQCGK/Wx42z9xxXN3MNAOOhnv4HVntKiY=
+github.com/afakihfaj/go-say-hello/v2 v2.0.0 h1:Go1H8cmuaQH494zPxibVolTgHJUA2CzfwV9FDrHKGVc=
+github.com/afakihfaj/go-say-hello/v2 v2.0.0/go.mod h1:jCXLYtgVDIPY6+F7wCimckxibndyNOn5cl83qRKeAIE=
